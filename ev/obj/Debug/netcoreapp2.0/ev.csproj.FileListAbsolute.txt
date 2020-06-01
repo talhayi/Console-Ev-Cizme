@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ev\ev\bin\Debug\netcoreapp2.0\ev.deps.json
+C:\Users\ASUS\source\repos\ev\ev\bin\Debug\netcoreapp2.0\ev.runtimeconfig.json
+C:\Users\ASUS\source\repos\ev\ev\bin\Debug\netcoreapp2.0\ev.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ev\ev\bin\Debug\netcoreapp2.0\ev.dll
+C:\Users\ASUS\source\repos\ev\ev\bin\Debug\netcoreapp2.0\ev.pdb
+C:\Users\ASUS\source\repos\ev\ev\obj\Debug\netcoreapp2.0\ev.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ev\ev\obj\Debug\netcoreapp2.0\ev.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ev\ev\obj\Debug\netcoreapp2.0\ev.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ev\ev\obj\Debug\netcoreapp2.0\ev.dll
+C:\Users\ASUS\source\repos\ev\ev\obj\Debug\netcoreapp2.0\ev.pdb
